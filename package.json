@@ -1,0 +1,14 @@
+{
+  "name": "big_public",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "mj",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-cors": "^0.0.16",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "koa-swig": "^2.2.1"
+  }
+}
