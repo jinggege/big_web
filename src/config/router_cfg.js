@@ -1,7 +1,7 @@
 module.exports = [
     {
-        name:"big-public",
-        router:"/demo",
+        name:"big-web",
+        router:"/h5",
         controllerPath:"/controller/demo.js",
         methods:["GET","POST"],
         desc:'demo'
