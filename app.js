@@ -11,6 +11,6 @@ Ctroller.start( app );
 
 app.listen( ServerCFG.server.port );
 
-console.log("====appcloud static server start by "+ServerCFG.server.port+" ====");
+console.log( ServerCFG.server.name+":" +ServerCFG.server.port+"  on start");
 
 
